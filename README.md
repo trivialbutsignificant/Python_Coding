@@ -1,1 +1,1 @@
-Some basic python coding problems.
+Python coding problems.
